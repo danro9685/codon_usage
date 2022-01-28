@@ -1,8 +1,8 @@
 # load data
-load("results/dataset1/annotations.RData")
+load("data/dataset1/annotations.RData")
 load("results/dataset1/codon_usage_information.RData")
-load("results/dataset1/human_cu.RData")
-load("results/dataset1/sars_cov2_fasta.RData")
+load("data/dataset1/human_cu.RData")
+load("data/dataset1/sars_cov2_fasta.RData")
 
 # DATA 1: consider only unique variants
 data = unique(codon_usage_information[,c("POS","REF","ALT","VWT","VMUT")])
