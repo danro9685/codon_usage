@@ -1,1 +1,1 @@
-This repository provides all the code to replicate the codon usage analysis; please feel free to contact us if you have problems running our scripts at daniele.ramazzotti1@gmail.com
+This repository provides all the code to replicate the analysis aimed at evaluating the adaptation of SARS-CoV-2 synonymous mutations to the human codon usage during the virus evolution; please feel free to contact us if you have issues running our scripts at daniele.ramazzotti1@gmail.com
